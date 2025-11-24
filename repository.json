@@ -1,0 +1,13 @@
+{
+  "name": "My CloudStream Repo",
+  "version": 1,
+  "plugins": [
+    {
+      "name": "Anikai",
+      "description": "Anikai plugin for CloudStream",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/hcgn2005-ai/my-cloudstream-repo/builds/Anikai.cs3",
+      "type": "cloudstream"
+    }
+  ]
+}
