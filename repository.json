@@ -1,6 +1,8 @@
 {
-  "name": "My CloudStream Repo",
-  "description": "Plugins by hcgn2005-ai",
+  "name": "HCgn CloudStream Repo",
+  "description": "CloudStream plugins by hcgn2005-ai",
   "manifestVersion": 1,
-  "plugins": []
+  "pluginLists": [
+    "https://raw.githubusercontent.com/hcgn2005-ai/my-cloudstream-repo/builds/plugins.json"
+  ]
 }
