@@ -7,8 +7,8 @@ cloudstream {
 
     authors = listOf("hcgn2005-ai")
 
-    description = "Anikai.to anime provider"
+    description = "Pro-level Anikai.to provider"
     status = 1
 
-    version = 1
+    version = 2
 }
